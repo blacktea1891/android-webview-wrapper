@@ -20,7 +20,7 @@ public class AppConfig {
      * - "file:///android_asset/theme-demo.html" -> loads app/src/main/assets/theme-demo.html
      * - "file:///android_asset/app/index.html" -> loads app/src/main/assets/app/index.html
      */
-    public static final String TARGET_WEBSITE_URL = "file:///android_asset/index.html";
+    public static final String TARGET_WEBSITE_URL = "https://book.916000234.xyz";
     
     // ========================================
     // AUTO-GENERATED - DO NOT MODIFY BELOW
